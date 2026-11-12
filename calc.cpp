@@ -17,7 +17,7 @@ int main() {
             break;
 
         case 3:
-            // multiplication
+            result = a * b;
             break;
 
         case 4:
