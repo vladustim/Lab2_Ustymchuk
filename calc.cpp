@@ -9,7 +9,7 @@ int main() {
     if (!(cin >> a >> op >> b)) return 1;
     switch (op) {
         case 1:
-            // addition
+            result = a + b;
             break;
 
         case 2:
