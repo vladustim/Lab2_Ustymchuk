@@ -21,7 +21,7 @@ int main() {
             break;
 
         case 4:
-            // division
+            if (b == 0) { cerr << "Division by zero"; return 1; } result = a / b;
             break;
 
         default:
