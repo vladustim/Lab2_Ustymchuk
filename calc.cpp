@@ -13,7 +13,7 @@ int main() {
             break;
 
         case 2:
-            // subtraction
+            result = a - b;
             break;
 
         case 3:
